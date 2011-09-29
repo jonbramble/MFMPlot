@@ -2,6 +2,17 @@ Requires packages RGL and colorbrewer
 
 Data used is ascii from wsxm program www.nanotec.es/products/wsxm/index.php
 
+Scaling factor is used to adjust aspect ratio of image size to height, otherwise plots can look either very flat or very spiky.
+
+===Todo
+
+Combine phase legend into main view
+Sort out numbering on axis
+Read size of image in from file
+
+
+
+
 
 
 
